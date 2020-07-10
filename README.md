@@ -1,4 +1,4 @@
-# Yintong Zhou  #softwaredeveloper
+# Yintong Zhou :octocat: #softwaredeveloper
 
 * [GitHub](http://github.com)
 * [LinkedIn](https://www.linkedin.com/in/yintong-zhou-80692a166/)
