@@ -1,6 +1,12 @@
 # Yintong Zhou⚡ #softwaredeveloper
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
   
+<div align="center">
+  <a href="https://github.com/yintong-zhou" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/github.png"></>
+  <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/linkedin.png"></>
+  <a href="https://www.instagram.com/tong._.gio/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/ig.png"></>
+</div>
+  
 * [GitHub](http://github.com) 
 * [LinkedIn](https://www.linkedin.com/in/yintong-zhou-80692a166/) 
 * [Instagram](https://www.instagram.com/tong._.gio/)
