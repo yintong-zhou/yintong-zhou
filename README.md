@@ -1,9 +1,7 @@
 # Yintong Zhou⚡ #softwaredeveloper
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
   
-* [GitHub](http://github.com)
-* [LinkedIn](https://www.linkedin.com/in/yintong-zhou-80692a166/)
-* [Instagram](https://www.instagram.com/tong._.gio/)
+* [GitHub](http://github.com) * [LinkedIn](https://www.linkedin.com/in/yintong-zhou-80692a166/) * [Instagram](https://www.instagram.com/tong._.gio/)
 
 <!--
 **yintong-zhou/yintong-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
