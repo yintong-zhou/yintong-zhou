@@ -8,10 +8,10 @@
   <a href="https://www.instagram.com/tong._.gio/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/ig.png"></a>&nbsp;&nbsp;
 </div>
 
-## Github Stats
+## Github Stats 📊
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yintong-zhou&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yintong-zhou&layout=compact&theme=dark)
 
-## Music On Live
+## Music On Live 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1186919188&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
