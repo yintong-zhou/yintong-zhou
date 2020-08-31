@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yintong-zhou&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yintong-zhou&layout=compact&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yintong-zhou&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yintong-zhou&layout=compact&theme=dark)
 
 ## Music On Live
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1186919188&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
