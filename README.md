@@ -2,9 +2,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
   
 <div align="center">
-  <a href="https://github.com/yintong-zhou" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/github.png"></>
-  <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/linkedin.png"></>
-  <a href="https://www.instagram.com/tong._.gio/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/ig.png"></>
+  <a href="https://github.com/yintong-zhou" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/github.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/tong._.gio/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/ig.png"></a>&nbsp;&nbsp;
 </div>
   
 * [GitHub](http://github.com) 
