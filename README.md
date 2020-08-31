@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yintong-zhou)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yintong-zhou&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yintong-zhou&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yintong-zhou&layout=compact&theme=dark)
