@@ -1,8 +1,6 @@
 # Yintong Zhou⚡ #softwaredeveloper
 
-<div align="center">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-</div>
   
 <div align="center">
   <a href="https://github.com/yintong-zhou" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/github.png"></a>&nbsp;&nbsp;
