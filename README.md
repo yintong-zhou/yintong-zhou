@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yintong-zhou)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yintong-zhou)
