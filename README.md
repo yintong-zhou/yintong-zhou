@@ -268,7 +268,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
   <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/gmail-D24939.svg?style=for-the-badge&logo=google&logoColor=white" alt="example"/>
   </a>
 </p>
 
