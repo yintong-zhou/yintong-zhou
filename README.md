@@ -283,8 +283,6 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
 
 ## Music On Live 🎧
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=1186919188&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
@@ -294,7 +292,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1186919188&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -302,12 +300,3 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-
-<!--
-* [GitHub](http://github.com) 
-* [LinkedIn](https://www.linkedin.com/in/yintong-zhou-80692a166/) 
-* [Instagram](https://www.instagram.com/tong._.gio/)
--->
-
-
