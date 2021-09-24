@@ -5,30 +5,13 @@
 <h1 align="center">Hi, I'm Yintong<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate backend and software developer from Italy</h3>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- 👯 
-
-- 🤝 
-
-- 👨‍💻 
-
-- 💬 
-
-- ⚡ 
-
-
 ---
-
-
 
 <div align="left">
   <a href="https://github.com/yintong-zhou" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/github.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/linkedin.png"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/tong._.gio/" ><img height="30" src="https://raw.githubusercontent.com/yintong-zhou/yintong-zhou/master/ig.png"></a>&nbsp;&nbsp;
 </div>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
   
 ---
 
