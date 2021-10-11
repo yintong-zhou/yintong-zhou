@@ -64,7 +64,6 @@
         <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
             alt="postgresql" />
     </a>
-    
     <a href="https://www.microsoft.com/it-it/sql-server/sql-server-2019" target="_blank">
         <img src="https://img.shields.io/badge/sql%20Server-183A61.svg?style=for-the-badge&logo=microsoft&logoColor=white"
             alt="microsoft" />
