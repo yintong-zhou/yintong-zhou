@@ -100,15 +100,15 @@
 
 <div style="margin-top:10px" align="center">
     <div>
-        <a href="https://linkedin.com/in/example" target="_blank">
+        <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/" target="_blank">
             <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
                 alt="example" />
         </a>
-        <a href="https://t.me/example" target="_blank">
+        <a href="https://t.me/jurion" target="_blank">
             <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"
                 alt="example" />
         </a>
-        <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+        <a href="mailto:zhouyintong96@gmail.com?subject=From Github readme," target="_blank">
             <img src="https://img.shields.io/badge/gmail-D24939.svg?style=for-the-badge&logo=google&logoColor=white"
                 alt="example" />
         </a>
@@ -125,9 +125,4 @@
 ### Music On Live 🎧
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1186919188&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
----
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-        alt="example" />
 </p>
