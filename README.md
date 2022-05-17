@@ -92,6 +92,10 @@
         <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"
             alt="ubuntu" />
     </a>
+    <a href="https://www.kali.org/" target="_blank">
+        <img src="https://img.shields.io/badge/kali-367BF0.svg?style=for-the-badge&logo=kalilinux&logoColor=white"
+            alt="ubuntu" />
+    </a>
 </p>
 
 ----
