@@ -88,13 +88,13 @@
         <img src="https://img.shields.io/badge/vm%20ware-FFCA28.svg?style=for-the-badge&logo=vmware&logoColor=black"
             alt="vmware" />
     </a>
-    <a href="https://ubuntu.com/" target="_blank">
-        <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"
-            alt="ubuntu" />
+    <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
+        <img src="https://img.shields.io/badge/windows-0067b8.svg?style=for-the-badge&logo=windows&logoColor=white"
+            alt="windows" />
     </a>
     <a href="https://www.kali.org/" target="_blank">
         <img src="https://img.shields.io/badge/kali-367BF0.svg?style=for-the-badge&logo=kalilinux&logoColor=white"
-            alt="ubuntu" />
+            alt="kali" />
     </a>
 </p>
 
