@@ -121,12 +121,3 @@
 
 ---
 
-## Github Stats 📊
-![tong's github stats](https://github-readme-stats.vercel.app/api?username=yintong-zhou&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yintong-zhou&theme=tokyonight)
-
-
-### Music On Live 🎧
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1186919188&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
-</p>
