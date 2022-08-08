@@ -3,14 +3,12 @@
         src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" />
 </p>
 
-<h1 align="center">Hi, I'm Yintong<img width="30px"
-        src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Yintong<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate backend and software developer from Italy</h3>
 
 ---
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
 <p align="center">
     <img style="width:26rem; height:auto"
         src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" />
@@ -100,7 +98,7 @@
 
 ----
 
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h2>
 
 <div style="margin-top:10px" align="center">
     <div>
