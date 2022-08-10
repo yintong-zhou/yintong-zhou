@@ -106,10 +106,7 @@
             <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
                 alt="example" />
         </a>
-        <a href="https://t.me/jurion" target="_blank">
-            <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"
-                alt="example" />
-        </a>
+
         <a href="mailto:zhouyintong96@gmail.com?subject=From Github readme," target="_blank">
             <img src="https://img.shields.io/badge/gmail-D24939.svg?style=for-the-badge&logo=google&logoColor=white"
                 alt="example" />
