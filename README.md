@@ -29,7 +29,7 @@
             alt="css3" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+        <img src="https://img.shields.io/badge/javascript-1572B6.svg?style=for-the-badge&logo=javascript&logoColor=white"
             alt="javascript" />
     </a>
 </p>
@@ -60,7 +60,7 @@
             alt="microsoft" />
     </a>
      <a href="https://www.microsoft.com/it-it/sql-server/sql-server-2019" target="_blank">
-        <img src="https://img.shields.io/badge/sql%20Server-183A61.svg?style=for-the-badge&logo=microsoft&logoColor=white"
+        <img src="https://img.shields.io/badge/PL%20SQL-183A61.svg?style=for-the-badge&logo=oracle&logoColor=white"
             alt="microsoft" />
     </a>
 </p>
