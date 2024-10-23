@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yintong</h1>
 <h3 align="center">A passionate C# Developer from Italy, I experienced in .NET Framework services and ASP.NET web development under Microsoft Windows with database creation and management skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yintong-zhou&label=Profile%20views&color=0e75b6&style=flat" alt="yintong-zhou" /> </p>
-
 - 📫 How to reach me **contactdm.yt@gmail.com**
 
 - 📄 Know about me [https://yintong-zhou.pages.dev/](https://yintong-zhou.pages.dev/)
