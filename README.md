@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yintong</h1>
-<h3 align="center">A passionate C# Developer from Italy, I experienced in .NET Framework services and ASP.NET web development under Microsoft Windows with database creation and management skills.</h3>
+<h3 align="center">A passionate C# Developer from Italy with expertise in .NET Framework services and ASP.NET web development. Skilled in database creation and management, I specialize in building efficient and scalable solutions.</h3>
 
 - 📫 How to reach me **contactdm.yt@gmail.com**
 
